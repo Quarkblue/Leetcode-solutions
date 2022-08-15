@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Data structure\Day 1\Maximum-subarray.cpp">
+    <ClCompile Include="Data structure\Day 2\two-sum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
