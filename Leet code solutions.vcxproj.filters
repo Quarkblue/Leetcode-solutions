@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Data structure\Day 2\two-sum.cpp">
+    <ClCompile Include="Data structure\Day 2\merge-sorted-array.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
